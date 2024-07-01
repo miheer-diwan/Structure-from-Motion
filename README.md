@@ -1,5 +1,5 @@
 # Structure-from-Motion
-This project implements a Structure from Motion pipeline for obtaining monocular camera poses w.r.t the scene and reconstructing a 3D scene. 
+This project implements a Structure from Motion pipeline for obtaining monocular camera poses in a given scene and reconstructing a 3D scene by leveraging Epipolar geometry. 
 
 Please refer to the [Report](Report.pdf) for implementation details:
 
