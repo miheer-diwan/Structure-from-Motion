@@ -13,7 +13,7 @@ Please refer to the [Report](Report.pdf) for implementation details:
 7. Bundle Adjustment
 
 ## Input Images:
-A set of 5 calibrated images of Worcester Polytechnic Institute's Unity Hall:
+A set of 5 calibrated images of [Worcester Polytechnic Institute's](https://wpi.edu) Unity Hall:
 
 ![Imgs](https://github.com/miheer-diwan/Structure-from-Motion/assets/79761017/427fc910-9dd2-466b-a469-5cdca38d260f)
 
